@@ -1,3 +1,8 @@
+Student Information: 
+Name: Vamsi Aakash Samudrala
+Student id: 801425922
+Email:vsamudr2@charlotte.edu
+
 # Handson L10: Spark Structured Streaming + Machine Learning with MLlib
 
 ## Project Overview
